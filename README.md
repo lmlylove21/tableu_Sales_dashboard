@@ -31,6 +31,6 @@ This project is an interactive Tableau dashboard built to analyze customer sales
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](https://github.com/lmlylove21/tableu_Sales_dashboard/blob/main/screesnshot/Dashboard.png)
 
 ![Trend and Map Analysis](screenshots/trend-analysis.png)
