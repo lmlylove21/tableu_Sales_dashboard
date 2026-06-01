@@ -27,7 +27,7 @@ This project is an interactive Tableau dashboard built to analyze customer sales
 - Top customers accounted for a major portion of overall revenue.
 
 ## Tableau Public Dashboard
-[View Dashboard Here](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[View Dashboard Here](https://public.tableau.com/app/profile/somya.pal7787/viz/TABLEUPROJECT_17803130139310/Dashboard)
 
 ## Dashboard Preview
 
