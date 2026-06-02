@@ -46,11 +46,11 @@ The goal of this dashboard is to help understand overall business performance, i
 
 ### Trend Analysis
 
-![Trend Analysis](screesnshots/Trend_Analysis.png)
+![Trend Analysis](screesnshots/Trend Analysis.png)
 
 ### Map Analysis
 
-![Map Analysis](screenshots/country.png)
+![Map Analysis]()
 
 ## Skills Demonstrated
 
