@@ -42,11 +42,11 @@ The goal of this dashboard is to help understand overall business performance, i
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screesnshots/Dashboard.png)
 
 ### Trend Analysis
 
-![Trend Analysis](screenshots/trend_analysis.png)
+![Trend Analysis](screesnshots/Trend_Analysis.png)
 
 ### Map Analysis
 
