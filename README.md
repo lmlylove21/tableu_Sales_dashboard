@@ -50,7 +50,7 @@ The goal of this dashboard is to help understand overall business performance, i
 
 ### Map Analysis
 
-![Map Analysis](screesnshots/ country.png)
+![Map Analysis](https://github.com/lmlylove21/tableu_sales_dashboard/blob/main/screesnshots/%20country.png)
 
 ## Skills Demonstrated
 
