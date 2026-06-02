@@ -46,7 +46,7 @@ The goal of this dashboard is to help understand overall business performance, i
 
 ### Trend Analysis
 
-![Trend Analysis](screesnshots/Trend_Analysis.png)
+![Trend Analysis](https://github.com/lmlylove21/tableu_sales_dashboard/blob/main/screesnshots/Trend%20Analysis.png)
 
 ### Map Analysis
 
